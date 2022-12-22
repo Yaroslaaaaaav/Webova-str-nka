@@ -1,0 +1,22 @@
+.card {
+    width: 50%;
+    margin-left: 30%;
+}
+
+.col{
+    width: 40%;
+}
+
+.custom{
+    display: inline-flex;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.img{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
